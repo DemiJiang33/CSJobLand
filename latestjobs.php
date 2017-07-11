@@ -3,8 +3,6 @@
     <?php
 /**
  * Created by PhpStorm.
- * User: maggie
- * Date: 11/17/15
  * Time: 2:28 PM
  */
 
