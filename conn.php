@@ -1,10 +1,7 @@
 <?php
 /*
 	/*
-    Name: Lixia Zhao
     Course: CSC620 Internet Application Development
-    HW3
-    Date: Oct. 21, 2015
     File: conn.php
     Description: connect database to webpage
  */
