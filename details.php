@@ -1,8 +1,6 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: maggie
- * Date: 11/18/15
  * Time: 2:48 PM
  */
  include ("header.php"); ?>
