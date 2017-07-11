@@ -1,6 +1,3 @@
-/**
- * Created by maggie on 11/18/15.
- */
 <!--javascript code for the user and password validations-->
 
     //validation function
