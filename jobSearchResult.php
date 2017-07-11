@@ -1,7 +1,7 @@
 
 <?php
 
-/* Name: Lixia Zhao
+/*
    Course: CSC620 IAD
    Final Project/jobSearchResult.php
   */
