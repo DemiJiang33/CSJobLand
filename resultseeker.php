@@ -4,7 +4,6 @@
 <?php
 
 /*
- *  Name: Lixia Zhao
  *	Course: CSC620 Internet Application Development
  *	Final Project
  *	FileName: searchjobseeker.php
